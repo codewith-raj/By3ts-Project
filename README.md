@@ -1,14 +1,14 @@
-# Spiko - Real-Time Translation Extension for Online Learning
+# 🌍 Spiko - Real-Time Translation Extension for Online Learning
 
-Spiko is a **real-time video audio translation browser extension** designed to break language barriers in online learning. It captures video audio, translates it into the user's preferred language, and provides live subtitles and voice translation. Spiko enhances accessibility and engagement for global audiences, making online education more inclusive.
+Spiko is a **real-time video audio translation browser extension** designed to break language barriers in online learning. It captures video and audio, translates it into the user's preferred language, and provides live subtitles and voice translation. Spiko enhances accessibility and engagement for global audiences, making online education more inclusive.
 
-## Live Demo
+## 🔴 Live Demo
 You can watch the Live demo of the project here
 - https://drive.google.com/file/d/1xQQ1tZCNSaR09qFGO6t4cF9caQie8Z9o/view?usp=sharing
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 1. [Problem Statement](#problem-statement)
 2. [Proposed Solution](#proposed-solution)
 3. [Features](#features)
@@ -16,32 +16,32 @@ You can watch the Live demo of the project here
 5. [Installation](#installation)
 6. [Usage](#usage)
 7. [Team](#team)
-8. Conclusion (#Conclusion)
+8. [Conclusion](#conclusion)
 
 
 ---
 
-## Problem Statement
+## ❗ Problem Statement
 Millions of people watch online videos daily, but language barriers limit access to content. Subtitles are often unavailable, inaccurate, or difficult to follow. Existing solutions lack real-time voice translation, making content less engaging for non-native speakers.
 
-### Impact of the Problem
+### 🧠 Impact of the Problem
 - Limited access to global educational, entertainment, and informational videos.
 - Reduced engagement for users who struggle with foreign languages.
 - Missed opportunities for creators to reach a wider audience.
 
 ---
 
-## Proposed Solution
+## 💡 Proposed Solution
 **Spiko** is a browser extension that:
-- Captures video audio from any website.
+- Captures video and audio from any website.
 - Uses AI-powered **Speech-to-Text**, **Translation**, and **Text-to-Speech**.
-- Provides live voice translation in the user’s preferred language and subtitles.
+- Provides live voice translation and subtitles in the user’s preferred language.
 - Enhances accessibility and engagement for global audiences.
 
 ---
 
-## Features
-- **Real-Time Voice Translation**: Translates video audio in real-time (only server wait time).
+## 🌟 Features
+- **Real-Time Voice Translation**: Translates video and audio in real-time (only server wait time).
 - **Multiple Language Support**: Supports a wide range of languages.
 - **Real-Time Captions**: Displays subtitles in the selected language.
 - **Play/Pause Functionality**: Pauses translation when the video is paused.
@@ -94,7 +94,7 @@ To install and run Spiko locally, follow these steps:
 - Select your preferred language.
 - Enjoy real-time translation and subtitles!
 
-## Team
+## 👥 Team
 - Ritik Raj
 - Veer Jain
 - Vijay Kant
